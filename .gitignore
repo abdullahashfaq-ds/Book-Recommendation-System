@@ -9,6 +9,9 @@ __pycache__/
 # Ignore Project Datasets
 Dataset/
 
+# Ignore Dump Files
+Dump/
+
 # Distribution / packaging
 .Python
 build/
